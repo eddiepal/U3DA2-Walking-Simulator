@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/FarmHouse.unity
+- path: Assets/Scenes/MyHouse.unity
   isLoaded: 1
   isActive: 1
