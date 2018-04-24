@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class ChnageSkybox : MonoBehaviour {
 	public Material Skybox2;
+	public GameObject elephants;
+	public GameObject trees;
 
 	//var mat2:Material;
 	// Use this for initialization
@@ -17,6 +19,9 @@ public class ChnageSkybox : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider other) {
-		RenderSettings.skybox=Skybox2;
+		//RenderSettings.skybox=Skybox2;
+		elephants.SetActive (false);
+		trees.SetActive (false);
+
 	}
 }
