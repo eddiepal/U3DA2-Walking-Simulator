@@ -5,7 +5,10 @@ using UnityEngine;
 public class ChnageSkybox : MonoBehaviour {
 	public Material Skybox2;
 	public GameObject elephants;
-	public GameObject trees;
+	public GameObject jungleTrees;
+	public AudioSource audio;
+	public GameObject jungleTerrain;
+	public GameObject desertTerrain;
 
 	//var mat2:Material;
 	// Use this for initialization
@@ -20,8 +23,11 @@ public class ChnageSkybox : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other) {
 		//RenderSettings.skybox=Skybox2;
-		elephants.SetActive (false);
-		trees.SetActive (false);
+		//elephants.SetActive (false);
+		jungleTrees.SetActive (false);
+		jungleTerrain.SetActive (false);
+		desertTerrain.SetActive (true);
+		audio.Play ();
 
 	}
 }
