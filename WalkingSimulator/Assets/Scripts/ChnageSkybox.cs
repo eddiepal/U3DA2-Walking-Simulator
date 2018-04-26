@@ -9,6 +9,8 @@ public class ChnageSkybox : MonoBehaviour {
 	public AudioSource audio;
 	public GameObject jungleTerrain;
 	public GameObject desertTerrain;
+	public GameObject desertTrees;
+	public GameObject gameTrigger;
 
 	//var mat2:Material;
 	// Use this for initialization
@@ -27,7 +29,9 @@ public class ChnageSkybox : MonoBehaviour {
 		jungleTrees.SetActive (false);
 		jungleTerrain.SetActive (false);
 		desertTerrain.SetActive (true);
+		desertTrees.SetActive (true);
 		audio.Play ();
+		gameTrigger.SetActive (false);
 
 	}
 }

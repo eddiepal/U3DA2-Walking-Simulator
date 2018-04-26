@@ -323,7 +323,7 @@ b3432dfe180f02232d7612fb366593d3 Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ApplicationManager
 3ae0dad0b55a80319e1d57c2dce28da7 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.Tonemapping
 32dcc1dca94294515dfea07e896e1a84 Assembly-CSharp.dll:ProBuilder2.Examples.RuntimeEdit
-a899af00113d24dab875c5eba575cd9f Assembly-CSharp.dll:.ChnageSkybox
+bbaee5dfff6caf9305203e70fc83824d Assembly-CSharp.dll:.ChnageSkybox
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ChangeColor
 34e025057ef78b1bf238460cdf6583a3 Assembly-CSharp.dll:TMPro.Examples.ObjectSpin
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.SimpleScript
