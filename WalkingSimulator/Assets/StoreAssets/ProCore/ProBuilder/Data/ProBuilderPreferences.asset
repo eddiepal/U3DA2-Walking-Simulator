@@ -20,6 +20,7 @@ MonoBehaviour:
   - pbForceConvex
   - pbMeshesAreAssets
   - pbCollapseVertexToFirst
+  - pbUVMaterialPreview
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -37,8 +38,8 @@ MonoBehaviour:
   m_Color_keys: []
   m_Material_keys:
   - pbDefaultMaterial
-  m_Bool_values: 0100010100000001
-  m_Int_values: 0100000002000000000000000000000000000000000000000200000002000000
+  m_Bool_values: 010001010000000101
+  m_Int_values: 0000000001000000000000000000000000000000000000000200000002000000
   m_Float_values:
   - 0
   - 0
