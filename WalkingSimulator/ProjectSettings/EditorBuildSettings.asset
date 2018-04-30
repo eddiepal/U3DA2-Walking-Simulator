@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/KillingFields.unity
     guid: 8c842ee09ea6ebc4eba5e97b14faf545
   - enabled: 1
+    path: Assets/Scenes/Ocean.unity
+    guid: 3e3bf8bd8fa4d5244bdae4319a93b250
+  - enabled: 1
     path: Assets/Scenes/Woods.unity
     guid: 1d864576f0709420b96b1775aeb08f22
   - enabled: 1
